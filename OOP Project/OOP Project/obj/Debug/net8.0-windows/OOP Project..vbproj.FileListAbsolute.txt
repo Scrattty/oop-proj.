@@ -1,0 +1,26 @@
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\OOP Project..exe
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\OOP Project..deps.json
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\OOP Project..runtimeconfig.json
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\OOP Project..dll
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\OOP Project..pdb
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP_Project_.Form1.resources
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..vbproj.GenerateResource.cache
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..AssemblyInfoInputs.cache
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..AssemblyInfo.vb
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..vbproj.CoreCompileInputs.cache
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..dll
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\refint\OOP Project..dll
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..pdb
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..genruntimeconfig.cache
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\ref\OOP Project..dll
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP_Project_.Form2.resources
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Project..vbproj.AssemblyReference.cache
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP Proj.F88759A0.Up2Date
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP_Project_.Resources.resources
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\obj\Debug\net8.0-windows\OOP_Project_.Form3.resources
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Scrat\source\repos\OOP Project\OOP Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
